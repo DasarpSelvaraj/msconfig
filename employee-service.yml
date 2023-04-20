@@ -1,2 +1,3 @@
 server:
-  contextPath: employee
+  servlet:
+    contextPath: employee
