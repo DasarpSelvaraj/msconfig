@@ -1,3 +1,3 @@
 server:
   servlet:
-    contextPath: /emp
+    contextPath: /employee
